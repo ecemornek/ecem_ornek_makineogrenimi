@@ -21,4 +21,11 @@ Veri Ön İşleme:
 
 Bu tarz bir model; Ev sahiplerinin doğru fiyat belirlemesini sağlar. Airbnb platformlarının otomatik fiyat önerisi yapabilmesini mümkün kılar.
 
+Geliştirme Fikirleri
+
+- Daha gelişmiş modellerle (Lasso, Ridge, RandomForest, XGBoost) kıyaslama yapılabilir.
+- Coğrafi koordinatlara dayalı harita temelli analizler eklenebilir.
+- Kullanıcı yorumlarının doğal dil işleme (NLP) ile incelenmesi eklenebilir.
+- `neighbourhood` özelliği ile mikro bölge analizleri yapılabilir.
+
 Kaggle Linki:https://www.kaggle.com/code/ecemrnek/akbankmakine-renmesibootcamp
